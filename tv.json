@@ -1,0 +1,34 @@
+{
+     "lives": [
+     {
+      "name": "直播源一",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/w1tv/IPTV/refs/heads/main/live.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {
+      "name": "直播源二",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://live.kakaxi-1.ink/ipv4.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播源三",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://cdn.jsdelivr.net/gh/w1tv/tv@gd/output/result.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播源四",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://175.178.251.183:6689/live.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }]
+}
